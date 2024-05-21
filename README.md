@@ -85,7 +85,7 @@ else:
 ```
 ## Output
 
-![img1](https://github.com/Gchethankumar/19AI405ProjExp/assets/118348224/2ce6adbe-272e-4e82-9656-8e44f1a42d9d)
+![img1](out.png)
 
 ## Result
  Thus, a Sudoku solver using the backtracking algorithm is implemented for the given Sudoku puzzle.
